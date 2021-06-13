@@ -19,6 +19,8 @@
 
 ![Створення SSH ключа](https://user-images.githubusercontent.com/85631498/121816744-ffd81500-cc85-11eb-9241-2f5ccc967a38.png)
 
+Беремо з папки користувача публічний ключ і додаємо в налаштуваннях користувача новий ssh ключ
+
 Скріншот активованого ключа
 
 ![ssh](https://user-images.githubusercontent.com/85631498/121816757-10888b00-cc86-11eb-87a0-7454ac3f93c1.png)
